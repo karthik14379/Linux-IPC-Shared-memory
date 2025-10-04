@@ -126,8 +126,6 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2024-04-14 220527.png>)
 
-![Alt text](<Screenshot 2024-04-14 223244.png>)
 # RESULT:
 The program is executed successfully.
